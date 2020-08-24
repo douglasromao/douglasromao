@@ -4,10 +4,8 @@
 - 👔 Head de Inovação e Produtos na **Trentim**
 - 💻 Fullstack developer (.NET, ReactJS e tecnologias relacionadas à Microsoft 365)
 - 🎤 Speaker e Community Manager (Youtuber as vezes 😄😄😄)
-
-[Canal no Youtube](http://youtube.com/douglasromao)
-
-[LinkedIn](https://www.linkedin.com/in/douglas-romao/)
+- [Canal no Youtube](http://youtube.com/douglasromao)
+- [LinkedIn](https://www.linkedin.com/in/douglas-romao/)
 
 
 
