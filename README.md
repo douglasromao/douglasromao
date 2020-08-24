@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🏆 **Microsoft Most Valuable Professional** nas categorias Business Applications e Office Apps and Services desde 2017
+- 👔 Head de Inovação e Produtos na **Trentim**
+- 💻 Fullstack developer (.NET, ReactJS e tecnologias relacionadas à Microsoft 365)
+- 🎤 Speaker e Community Manager
+
 <!--
 **douglasromao/douglasromao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
