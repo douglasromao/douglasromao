@@ -3,9 +3,11 @@
 - 🏆 **Microsoft Most Valuable Professional** nas categorias Business Applications e Office Apps and Services desde 2017
 - 👔 Head de Inovação e Produtos na **Trentim**
 - 💻 Fullstack developer (.NET, ReactJS e tecnologias relacionadas à Microsoft 365)
+- 💻 Power Platform Architect - focado principalmente em Power Apps
 - 🎤 Speaker e Community Manager (Youtuber as vezes 😄😄😄)
 - [Canal no Youtube](http://youtube.com/douglasromao)
 - [LinkedIn](https://www.linkedin.com/in/douglas-romao/)
+- [Instagram](https://www.instagram.com/_douglasromao/)
 
 
 
