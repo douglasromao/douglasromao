@@ -1,13 +1,20 @@
 ### Hi there 👋
 
 - 🏆 **Microsoft Most Valuable Professional** nas categorias Business Applications e Office Apps and Services desde 2017
-- 👔 Head de Inovação e Produtos na **Trentim**
+- 👔 Head de Inovação e Produtos na **ProActive A/S part of Fellowmind** 
 - 💻 Fullstack developer (.NET, ReactJS e tecnologias relacionadas à Microsoft 365)
 - 💻 Power Platform Architect - focado principalmente em Power Apps
+- 💻 Project & Portfolio Management Architect - focado principalmente em Project for the Web e Dynamics 365 Project Operations
 - 🎤 Speaker e Community Manager (Youtuber as vezes 😄😄😄)
+- 🎤 Podcaster no **Romão's cast** - conteúdo que faço com meu irmão Renato Romão sobre melhores práticas no mundo de tecnologia, inovação e negócios
+
+- Pai do Vicente 👶 e marido da Mari ❤️
+
+Aqui você pode me encontrar:
 - [Canal no Youtube](http://youtube.com/douglasromao)
 - [LinkedIn](https://www.linkedin.com/in/douglas-romao/)
-- [Instagram](https://www.instagram.com/_douglasromao/)
+- [Instagram](https://www.instagram.com/douglasoromao/)
+- [Romão's Cast](https://www.anchor.fm/romaoscast/)
 
 
 
