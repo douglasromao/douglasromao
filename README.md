@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🏆 **Microsoft Most Valuable Professional** nas categorias Business Applications e Office Apps and Services desde 2017
-- 👔 Arquiteto de Soluções Sênior e Business Consultant na **ProActive A/S part of Fellowmind** 🇩🇰
+- 👔 Arquiteto de Soluções Sênior e Business Consultant na **Fellowmind Denmark** 🇩🇰
 - 💻 Fullstack developer (.NET, ReactJS e tecnologias relacionadas à Microsoft 365)
 - 💻 Power Platform Architect - focado principalmente em Power Apps
 - 💻 Project & Portfolio Management Architect - focado principalmente em Project for the Web e Dynamics 365 Project Operations
