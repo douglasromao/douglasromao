@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🏆 **Microsoft Most Valuable Professional** nas categorias Business Applications e Office Apps and Services desde 2017
-- 👔 Arquiteto de Soluções Sênior e Business Consultant na **Fellowmind Denmark** 🇩🇰
+- 👔 Arquiteto de Soluções Sênior e Team Lead na **Fellowmind Denmark** 🇩🇰
 - 💻 Fullstack developer (.NET, ReactJS e tecnologias relacionadas à Microsoft 365)
 - 💻 Power Platform Architect - focado principalmente em Power Apps
 - 💻 Project & Portfolio Management Architect - focado principalmente em Project for the Web e Dynamics 365 Project Operations
-- 🎤 Speaker e Community Manager (Youtuber as vezes 😄😄😄)
+- 🎤 Speaker e Community Manager
 - 🎤 Podcaster no **Romão's cast** - conteúdo que faço com meu irmão Renato Romão sobre melhores práticas no mundo de tecnologia, inovação e negócios
 
 - Pai do Vicente 👶 e marido da Mari ❤️
