@@ -8,7 +8,7 @@
 - 🎤 Speaker e Community Manager
 - 🎤 Podcaster no **Romão's cast** - conteúdo que faço com meu irmão Renato Romão sobre melhores práticas no mundo de tecnologia, inovação e negócios
 
-- Pai do Vicente 👶 e marido da Mari ❤️
+- Pai do Vicente e da Carolina 👶 e marido da Mari ❤️
 
 Aqui você pode me encontrar:
 - [Canal no Youtube](http://youtube.com/douglasromao)
